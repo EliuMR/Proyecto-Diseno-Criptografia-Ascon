@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Permutacion.srcs/sources_1/new/Adicion_Constante.vhd" \
+"../../../../Permutacion.srcs/sources_1/new/Difusion_Lineal.vhd" \
+"../../../../Permutacion.srcs/sources_1/new/Substitucion.vhd" \
+"../../../../Permutacion.srcs/sources_1/new/Permutacion.vhd" \
+
+# Do not sort compile order
+nosort

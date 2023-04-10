@@ -1,0 +1,21 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2022.2                 C:/Xilinx/Vivado/2022.2
+Matlab 9.13.0.2126072 (R2022b) Update 3 C:\Program Files\MATLAB\R2022b
+Vivado 2022.2                           C:/Xilinx/Vivado/2022.2
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: The design contains HDL blocks. Add a Vitis Model Compose...
+     Block: 'prueba1/Black Box'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'prueba1/Black Box'
+
+Details:
+The design contains HDL blocks. Add a Vitis Model Composer Hub
+block at the top level in the design.
+
+--------------------------------------------------------------------------------
