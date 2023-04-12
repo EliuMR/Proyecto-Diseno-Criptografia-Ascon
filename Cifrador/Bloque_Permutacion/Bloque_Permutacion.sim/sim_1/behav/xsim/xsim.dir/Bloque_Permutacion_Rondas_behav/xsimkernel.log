@@ -1,0 +1,7 @@
+Running: xsim.dir/Bloque_Permutacion_Rondas_behav/xsimk.exe -simmode gui -wdb Bloque_Permutacion_Rondas_behav.wdb -simrunnum 0 -socket 55588
+Design successfully loaded
+Design Loading Memory Usage: 7840 KB (Peak: 7840 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 11676 KB (Peak: 11676 KB)
+Simulation CPU Usage: 46 ms

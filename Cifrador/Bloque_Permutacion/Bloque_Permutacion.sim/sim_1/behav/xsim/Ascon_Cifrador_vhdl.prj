@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Adicion_Constante.vhd" \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Bloque_Permutacion_Rondas.vhd" \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Difusion_Lineal.vhd" \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Maquina_Estados.vhd" \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Permutacion.vhd" \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Substitucion.vhd" \
+"../../../../Bloque_Permutacion.srcs/sources_1/new/Ascon_Cifrador.vhd" \
+
+# Do not sort compile order
+nosort
